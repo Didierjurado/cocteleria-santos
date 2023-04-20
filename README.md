@@ -5,8 +5,6 @@ cocteles diferentes
 <head>
 
 
-<title> https://www.cocteleria Los Santos.com </title>
-
 </head>
 
 <img src="https://st4.depositphotos.com/1194063/38774/i/450/depositphotos_387740932-stock-photo-set-of-various-cocktails-with.jpg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 600px; height: 312px; margin: 0px; width: 465px;" alt="Cócteles fotos de stock, imágenes de Cócteles sin royalties | Depositphotos" jsname="kn3ccd">
